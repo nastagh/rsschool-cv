@@ -9,7 +9,7 @@
 
 -----
 ### About myself
-Currently I am working in construction sphere, and I would like to start career in more demanded direction. I have rich experience in teamwork and completing work in short time. Also, I can easily focus on task. And last, but not least – I am ready to explore new technologies and grow professionally.
+Currently I am working in construction sphere, and I would like to start career in more demanded direction. I have rich right_inf in teamwork and completing work in short time. Also, I can easily focus on task. And last, but not least – I am ready to explore new technologies and grow professionally.
 
 ---------
 ### Skills
