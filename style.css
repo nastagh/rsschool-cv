@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+
+body {
+    background-color: rgb(238,221,213);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 30px auto;
+    display: flex;
+    box-shadow: 0 0 20px rgb(129, 118, 113);
+}
+
+.left_column {
+    background-color: rgb(193,213,204);
+    flex-grow: 1;
+    position: relative;
+}
+
+.right_column {
+    background-color: white;
+    flex-grow: 1;
+    max-width: 70%;
+    padding-top: 40px;
+}
+
+.contact {
+    max-width: 280px;
+    /* margin: 50px auto; */
+    margin: 50px 0 0 100px;
+
+}
+
+h2 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.contact_icon {
+    margin: 15px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact_icon>div>a>img {
+    width: 20px;
+}
+
+.contact_icon>div:hover {
+    transform: scale(1.5);
+}
+
+.right_inf {   
+    margin: 50px 0 0 100px;
+}
+
+.right_inf>div {
+    margin: 15px 0;
+    background-color: rgb(193,213,204);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(193,213,204);
+}
+
+.about_myself {
+    background-color: rgb(238,221,213);
+    position: absolute;
+    left: 25%;
+    width: 100%;
+    padding: 390px 20px 20px 20px;
+}
+
+.languages {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.skills {
+    margin: 750px auto 30px auto;
+}
+
+.container_line {
+    display: flex;
+    max-width: 200px;
+}
+
+.line {
+    background-color: rgb(238,221,213);
+    width: 7px;
+    margin-right: 20px;
+}
+
+.foto>img {
+    margin-top: 50px;
+    position: absolute;
+    width: 200px;
+    /* height: 200px; */
+    left: 50%;
+    /* border-radius: 50%; */
+}
+
+/* @media only all and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+} */
